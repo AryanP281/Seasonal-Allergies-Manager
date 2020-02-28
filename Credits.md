@@ -1,11 +1,11 @@
 #Frontend:
 
-  Aryan Trivedi
+    Aryan Trivedi
   
-  Akshath Shah
+    Akshath Shah
   
-  Dhairya Veera
+    Dhairya Veera
 
 #Backend:
 
-  Aryan Pathare
+    Aryan Pathare
